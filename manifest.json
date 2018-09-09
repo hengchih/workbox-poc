@@ -1,0 +1,29 @@
+{
+  "name": "amai",
+  "short_name": "amai",
+  "icons": [{
+    "src": "https://diz36nn4q02zr.cloudfront.net/webapi/images/t/128/128/ShopIcon/88/0/184954",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "https://diz36nn4q02zr.cloudfront.net/webapi/images/t/144/144/ShopIcon/88/0/184954",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://diz36nn4q02zr.cloudfront.net/webapi/images/t/152/152/ShopIcon/88/0/184954",
+    "sizes": "152x152",
+    "type": "image/png"
+  }, {
+    "src": "https://diz36nn4q02zr.cloudfront.net/webapi/images/t/192/192/ShopIcon/88/0/184954",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://diz36nn4q02zr.cloudfront.net/webapi/images/t/256/256/ShopIcon/88/0/184954",
+    "sizes": "256x256",
+    "type": "image/png"
+  }],
+  "start_url": "/pwa-poc/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff"
+}
